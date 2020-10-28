@@ -31,7 +31,6 @@ pip install configparser
 
 ## GUI
 
-![finalGUI](C:\Users\alex\Desktop\finalGUI.png)
 
 
 
